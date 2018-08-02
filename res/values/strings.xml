@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothHid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="connect">连接</string>
+	<string name="disconnect">断开连接</string>
+	<string name="test">测试</string>
+	<string name="connnect_success">连接成功</string>
+	<string name="disconnected">与设备断开连接</string>
+	<string name="click_test">测试按钮被点击了</string>
+	<string name="hid_connected_title">HID连接成功</string>
+	<string name="hid_connected_msg">%1$s蓝牙输入设备已成功连接</string>
+</resources>

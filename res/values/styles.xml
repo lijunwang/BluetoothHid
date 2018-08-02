@@ -1,0 +1,13 @@
+<resources>
+
+    <color name="bg_dialog">#ffffff</color>
+    <style name="Theme.ActivityDialogStyle" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/bg_dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+</resources>
